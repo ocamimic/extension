@@ -1,1 +1,2 @@
-Hide current rate-points
+現在の評価を見えなくします。
+原案:Salty氏
