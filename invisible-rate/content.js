@@ -1,1 +1,0 @@
-document.querySelectorAll(".rate-points span.number").forEach(e => e.textContent = "???");
